@@ -1,7 +1,6 @@
 # iOS-UDID-Safari
 iOS-UDID-Safari,通过Safari获取iOS设备真实UDID，use sarari and mobileconfig get  ios device real udid
 
-博文地址 ：www.skyfox.org/safari-ios-device-udid.html
 # 通过Safari与mobileconfig获取iOS设备UDID(设备唯一标识符)
 科普:**U D I D** (Unique Device Identifier)，唯一标示符,是iOS设备的一个唯一识别码，每台iOS设备都有一个独一无二的编码，UDID其实也是在设备量产的时候,生成随机的UUID写入到iOS设备硬件或者某一块存储器中,所以变成了固定的完全不会改变的一个标识，用来区别每一个唯一的iOS设备，包括 iPhones, iPads, 以及 iPod touches
 
